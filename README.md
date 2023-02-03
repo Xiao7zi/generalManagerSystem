@@ -12,5 +12,5 @@ manager-server -> 后端数据
 ## 启动项目
 1. 启动前端页面
     `npm run serve`
-2. 
+2. 启动服务端
     `npm run start`
